@@ -1,0 +1,32 @@
+ .ul_pics li {
+    float: left;
+    width: 160px;
+    height: 100px;
+    border: 1px solid #ddd;
+    padding: 2px;
+    text-align: center;
+    margin: 0 5px 5px 0;
+    position: relative;
+    overflow: hidden;
+}
+.ul_pics li img {
+    width: 100%;
+}
+.ul_pics li span.del_img {
+    position: absolute;
+    left: 0;
+    background: #FFFFFF;
+    padding: 4px 12px;
+    font-size: 12px;
+    color: #1890C7;
+    cursor: pointer;
+}
+.ul_pics li span.set_head {
+    right: 0;
+    position: absolute;
+    background: #FFFFFF;
+    padding: 4px 8px;
+    font-size: 12px;
+    color: #1890C7;
+    cursor: pointer;
+}

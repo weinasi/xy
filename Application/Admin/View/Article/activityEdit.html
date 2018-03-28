@@ -1,0 +1,331 @@
+<extend name="Public/base" />
+
+<!-- 子导航 -->
+<block name="sidebar">
+    <include file="sidemenu" />
+</block>
+
+<block name="body">
+	<script type="text/javascript" src="__STATIC__/uploadify/jquery.uploadify.min.js"></script>
+	<div class="main-title cf">
+		<h2>
+			编辑{$data.hdmc}
+		</h2>
+	</div>
+    <!---->
+    <div class="form-item">
+        <label class="item-label">封面图<span class="check-tips">（封面图）</span></label>
+        <div class="controls">
+            <volist name=":parse_config_attr($model['field_group'])" id="group">
+                <div id="tab{$key}" class="tab-pane <eq name="key" value="1">in</eq> tab{$key}">
+                <volist name="fields[$key]" id="field">
+                    <if condition="$field['is_show'] == 1 && $field['type'] == picture">
+
+                            <div class="controls">
+                                <input type="file" id="upload_picture_{$field.name}">
+                                <input type="hidden" name="{$field.name}" id="cover_id_{$field.name}"/>
+                                <div class="upload-img-box">
+                                    <notempty>
+                                        <div class="upload-pre-item"><img src="{$fmt}"/></div>
+                                    </notempty>
+                                </div>
+                            </div>
+                            <script type="text/javascript">
+                                //上传图片
+                                /* 初始化上传插件 */
+                                $("#upload_picture_{$field.name}").uploadify({
+                                    "height"          : 30,
+                                    "swf"             : "__STATIC__/uploadify/uploadify.swf",
+                                    "fileObjName"     : "download",
+                                    "buttonText"      : "上传图片",
+                                    "uploader"        : "{:U('File/uploadPicture',array('session_id'=>session_id()))}",
+                                    "width"           : 120,
+                                    'removeTimeout'	  : 1,
+                                    'fileTypeExts'	  : '*.jpg; *.png; *.gif;',
+                                    "onUploadSuccess" : uploadPicture{$field.name},
+                                'onFallback' : function() {
+                                    alert('未检测到兼容版本的Flash.');
+                                }
+                                });
+                                function uploadPicture{$field.name}(file, data){
+                                    var data = $.parseJSON(data);
+                                    var src = '';
+                                    if(data.status){
+                                        $("#cover_id_{$field.name}").val(data.id);
+                                        src = data.url || '__ROOT__' + data.path;
+                                        console.log(src);
+                                        $("#cover_id_{$field.name}").parent().find('.upload-img-box').html(
+                                                '<div class="upload-pre-item"><img src= '+src+' /></div>'
+                                        );
+                                        $('input[name="fmt"]').val(src);
+                                    } else {
+                                        updateAlert(data.info);
+                                        setTimeout(function(){
+                                            $('#top-alert').find('button').click();
+                                            $(that).removeClass('disabled').prop('disabled',false);
+                                        },1500);
+                                    }
+                                }
+                            </script>
+
+                    </if>
+                </volist>
+        </div>
+        </volist>
+    </div>
+    </div>
+    <!---->
+	<!-- 标签页导航 -->
+<div class="tab-wrap">
+	<div class="tab-content">
+        <form action="{:U('storeActivity')}" method="post" class="form-horizontal">
+            <input type="hidden" class="text input-large" name="id" value="{$data.id}">
+            <div class="form-item">
+                <label class="item-label">活动名称<span class="check-tips">（活动名称）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="hdmc" value="{$data.hdmc}">
+                </div>
+            </div>
+            <div class="form-item">
+                <label class="item-label">活动编号<span class="check-tips">（活动编号）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="hdbh" value="{$data.hdbh}">
+                </div>
+            </div>
+            <div class="form-item">
+                <label class="item-label">活动开始与结束日期<span class="check-tips">（活动开始与结束日期）</span></label>
+                <div class="controls">
+                    <input type="text" id="test10" name="startAndEnd" class="text input-large demo-input"  value="{$data.rqs} - {$data.rqz}">
+                </div>
+            </div>
+            <div class="form-item" style="display: none;">
+                <label class="item-label">日期始<span class="check-tips">（日期始）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="rqs" value="{$data.rqz}">
+                </div>
+            </div>
+            <div class="form-item" style="display: none;">
+                <label class="item-label">日期止<span class="check-tips">（日期止）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="rqz" value="{$data.rqz}">
+                </div>
+            </div>
+            <div class="form-item">
+                <label class="item-label">地点<span class="check-tips">（地点）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="dd" value="{$data.dd}">
+                </div>
+            </div>
+            <div class="form-item">
+                <label class="item-label">经度<span class="check-tips">（经度）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="longitude" value="{$data.longitude}">
+                </div>
+            </div>
+            <div class="form-item">
+                <label class="item-label">纬度<span class="check-tips">（纬度）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="latitude" value="{$data.latitude}">
+                </div>
+            </div>
+            <div class="form-item">
+                <label class="item-label">位置名<span class="check-tips">（位置名）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="name" value="{$data.name}">
+                </div>
+            </div>
+            <div class="form-item">
+                <label class="item-label">宣传图<span class="check-tips">（宣传图）</span></label>
+                <div class="controls">
+                    <volist name=":parse_config_attr($model['field_group'])" id="group">
+                        <div id="tab{$key}" class="tab-pane <eq name="key" value="1">in</eq> tab{$key}">
+                            <volist name="fields[$key]" id="field">
+                                <if condition="$field['is_show'] == 1 && $field['type'] == pluploadimages">
+                                    <if condition="$isEdit == 1">
+                                    {:hook('PluploadImages',array('count'=>'10','name'=>'pluploadimages','value'=>''))}
+                                    </if>
+                                    <if condition="$isEdit == 2">
+                                        {:hook('PluploadImages', array('count'=>'10','name'=>'pluploadimages','value'=>$xcts))}
+                                    </if>
+                                </if>
+                            </volist>
+                        </div>
+                    </volist>
+                </div>
+            </div>
+
+            <div class="form-item">
+                <label class="item-label">状态<span class="check-tips">（状态）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="zt" value="{$data.zt}">
+                </div>
+            </div>
+            <div class="form-item">
+                <label class="item-label">总数量<span class="check-tips">（总数量）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="zsl" value="{$data.zsl}">
+                </div>
+            </div>
+            <div class="form-item">
+                <label class="item-label">报名价格<span class="check-tips">（报名价格）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="bmjg" value="{$data.bmjg}">
+                </div>
+            </div>
+            <div class="form-item" style="display: none;">
+                <label class="item-label">宣传图<span class="check-tips">（宣传图）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="xct" value="{$data.xct}">
+                </div>
+            </div>
+            <div class="form-item">
+                <label class="item-label">男士数量<span class="check-tips">（男士数量）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="mansl" value="{$data.mansl}">
+                </div>
+            </div>
+            <div class="form-item">
+                <label class="item-label">女士数量<span class="check-tips">（女士数量）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="womensl" value="{$data.womensl}">
+                </div>
+            </div>
+            <div class="form-item">
+                <label class="item-label">其他数量<span class="check-tips">（其他数量）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="qtsl" value="{$data.qtsl}">
+                </div>
+            </div>
+            <div class="form-item">
+                <label class="item-label">浏览次数<span class="check-tips">（浏览次数）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="llcs" value="{$data.llcs}">
+                </div>
+            </div>
+            <div class="form-item">
+                <label class="item-label">备注<span class="check-tips">（备注）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="bz" value="{$data.bz}">
+                </div>
+            </div>
+            <div class="form-item">
+                <label class="item-label">活动详情<span class="check-tips">（活动详情）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="hdxq" value="{$data.hdxq}">
+                </div>
+            </div>
+            <div class="form-item" style="display: none;">
+                <label class="item-label">封面图<span class="check-tips">（封面图）</span></label>
+                <div class="controls">
+                    <input type="text" class="text input-large" name="fmt" value="{$data.fmt}">
+                </div>
+            </div>
+            <div class="form-item">
+                <button class="btn submit-btn ajax-post" id="submit" type="submit" target-form="form-horizontal">确 定</button>
+                <button class="btn btn-return" onclick="javascript:history.back(-1);return false;">返 回</button>
+            </div>
+        </form>
+	</div>
+</div>
+</block>
+
+<block name="script">
+<link href="__STATIC__/datetimepicker/css/datetimepicker.css" rel="stylesheet" type="text/css">
+<php>if(C('COLOR_STYLE')=='blue_color') echo '<link href="__STATIC__/datetimepicker/css/datetimepicker_blue.css" rel="stylesheet" type="text/css">';</php>
+<link href="__STATIC__/datetimepicker/css/dropdown.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="__STATIC__/datetimepicker/js/bootstrap-datetimepicker.min.js"></script>
+<script type="text/javascript" src="__STATIC__/datetimepicker/js/locales/bootstrap-datetimepicker.zh-CN.js" charset="UTF-8"></script>
+<script type="text/javascript">
+
+Think.setValue("type", {$data.type|default='""'});
+Think.setValue("display", {$data.display|default=0});
+
+$('#submit').click(function(){
+	$('#form').submit();
+});
+
+//date 组件开始
+lay('#version').html('-v'+ laydate.v);
+
+//执行一个laydate实例
+//日期时间范围
+laydate.render({
+    elem: '#test10'
+    ,type: 'datetime'
+    ,range: true,
+    change: function(value, date){ //监听日期被切换
+//        lay('#testView').html(value);
+        $('input[name="rqs"]').val(value.substring(0,19));
+        $('input[name="rqz"]').val(value.substring(22));
+    }
+});
+//组件结束
+
+
+$(function(){
+    $('.time').datetimepicker({
+        format: 'yyyy-mm-dd hh:ii',
+        language:"zh-CN",
+        minView:2,
+        autoclose:true
+    });
+    showTab();
+
+	<if condition="C('OPEN_DRAFTBOX') and (ACTION_NAME eq 'add' or $data['status'] eq 3)">
+	//保存草稿
+	var interval;
+	$('#autoSave').click(function(){
+        var target_form = $(this).attr('target-form');
+        var target = $(this).attr('url')
+        var form = $('.'+target_form);
+        var query = form.serialize();
+        var that = this;
+
+        $(that).addClass('disabled').attr('autocomplete','off').prop('disabled',true);
+        $.post(target,query).success(function(data){
+            if (data.status==1) {
+                updateAlert(data.info ,'alert-success');
+                $('input[name=id]').val(data.data.id);
+            }else{
+                updateAlert(data.info);
+            }
+            setTimeout(function(){
+                $('#top-alert').find('button').click();
+                $(that).removeClass('disabled').prop('disabled',false);
+            },1500);
+        })
+
+        //重新开始定时器
+        clearInterval(interval);
+        autoSaveDraft();
+        return false;
+    });
+
+	//Ctrl+S保存草稿
+	$('body').keydown(function(e){
+		if(e.ctrlKey && e.which == 83){
+			$('#autoSave').click();
+			return false;
+		}
+	});
+
+	//每隔一段时间保存草稿
+	function autoSaveDraft(){
+		interval = setInterval(function(){
+			//只有基础信息填写了，才会触发
+			var title = $('input[name=title]').val();
+			var name = $('input[name=name]').val();
+			var des = $('textarea[name=description]').val();
+			if(title != '' || name != '' || des != ''){
+				$('#autoSave').click();
+			}
+		}, 1000*parseInt({:C('DRAFT_AOTOSAVE_INTERVAL')}));
+	}
+	autoSaveDraft();
+
+	</if>
+
+
+});
+</script>
+</block>
