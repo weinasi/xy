@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="/xy/Public/Admin/css/module.css">
     <link rel="stylesheet" type="text/css" href="/xy/Public/Admin/css/style.css" media="all">
 	<link rel="stylesheet" type="text/css" href="/xy/Public/Admin/css/<?php echo (C("COLOR_STYLE")); ?>.css" media="all">
-
+    <link href="bitbug_favicon.ico" rel="shortcut icon"/>
     <link rel="stylesheet" type="text/css" href="/xy/Public/Admin/laydate/laydate.css">
 
      <!--[if lt IE 9]>
@@ -196,7 +196,7 @@
     })
     $(function(){
         // $('#main').attr({'id': 'indexMain','class': 'index-main'});
-        $('.copyright').html('<div class="copyright"> ©2013 <a href="http://www.topthink.net" target="_blank">topthink.net</a> 上海顶想信息科技有限公司版权所有</div>');
+        $('.copyright').html('<div class="copyright"> ©2018 <a href="/xy" target="_blank">www.snowzhai.com</a> 南京雪月信息科技有限公司版权所有</div>');
         $('.sidebar').remove();
     })
 </script>

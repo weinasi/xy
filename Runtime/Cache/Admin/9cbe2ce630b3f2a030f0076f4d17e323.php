@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="/xy/Public/Admin/css/module.css">
     <link rel="stylesheet" type="text/css" href="/xy/Public/Admin/css/style.css" media="all">
 	<link rel="stylesheet" type="text/css" href="/xy/Public/Admin/css/<?php echo (C("COLOR_STYLE")); ?>.css" media="all">
-
+    <link href="bitbug_favicon.ico" rel="shortcut icon"/>
     <link rel="stylesheet" type="text/css" href="/xy/Public/Admin/laydate/laydate.css">
 
      <!--[if lt IE 9]>
@@ -21,6 +21,11 @@
 
     <script type="text/javascript" src="/xy/Public/Admin/laydate/laydate.js"></script>
     
+    <style>
+        .font8{
+            font-size: 8px;
+        }
+    </style>
 </head>
 <body>
     <!-- 头部 -->

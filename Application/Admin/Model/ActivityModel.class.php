@@ -675,14 +675,14 @@ class ActivityModel extends Model{
         }
 
         $qtsl = $data['qtsl'];//其他数量
-        if(empty($qtsl)){
-            return array('status'=>0, 'info'=>'其他数量不能为空');
-        }
+//        if(empty($qtsl)){
+//            return array('status'=>0, 'info'=>'其他数量不能为空');
+//        }
 
         $llcs = $data['llcs'];//浏览次数
-        if(empty($llcs)){
-            return array('status'=>0, 'info'=>'浏览次数不能为空');
-        }
+//        if(empty($llcs)){
+//            return array('status'=>0, 'info'=>'浏览次数不能为空');
+//        }
 
         $bz = $data['bz'];//备注
         $hdxq = $data['hdxq'];//活动详情

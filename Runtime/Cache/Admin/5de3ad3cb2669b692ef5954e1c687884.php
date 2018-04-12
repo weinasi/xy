@@ -21,6 +21,11 @@
 
     <script type="text/javascript" src="/xy/Public/Admin/laydate/laydate.js"></script>
     
+    <style>
+        .font8{
+            font-size: 8px;
+        }
+    </style>
 </head>
 <body>
     <!-- 头部 -->

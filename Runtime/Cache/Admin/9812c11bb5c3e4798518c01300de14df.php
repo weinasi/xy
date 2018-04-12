@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="/xy/Public/Admin/css/module.css">
     <link rel="stylesheet" type="text/css" href="/xy/Public/Admin/css/style.css" media="all">
 	<link rel="stylesheet" type="text/css" href="/xy/Public/Admin/css/<?php echo (C("COLOR_STYLE")); ?>.css" media="all">
-
+    <link href="bitbug_favicon.ico" rel="shortcut icon"/>
     <link rel="stylesheet" type="text/css" href="/xy/Public/Admin/laydate/laydate.css">
 
      <!--[if lt IE 9]>
@@ -335,13 +335,15 @@
             <div class="form-item">
                 <label class="item-label">备注<span class="check-tips">（备注）</span></label>
                 <div class="controls">
-                    <input type="text" class="text input-large" name="bz" value="<?php echo ($data["bz"]); ?>">
+                    <textarea name="bz" id="" cols="60" rows="10"><?php echo ($data["bz"]); ?></textarea>
+                    <!--<input type="text" class="text input-large" name="bz" value="<?php echo ($data["bz"]); ?>">-->
                 </div>
             </div>
             <div class="form-item">
                 <label class="item-label">活动详情<span class="check-tips">（活动详情）</span></label>
                 <div class="controls">
-                    <input type="text" class="text input-large" name="hdxq" value="<?php echo ($data["hdxq"]); ?>">
+                    <textarea name="hdxq" id="" cols="60" rows="10"><?php echo ($data["hdxq"]); ?></textarea>
+                    <!--<input type="text" class="text input-large" name="hdxq" value="<?php echo ($data["hdxq"]); ?>">-->
                 </div>
             </div>
             <div class="form-item" style="display: none;">

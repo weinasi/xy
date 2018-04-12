@@ -1,161 +1,68 @@
-<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE HTML>
-<html>
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<meta charset="UTF-8">
-<title><?php echo C('WEB_SITE_TITLE');?></title>
-<link href="/xy/Public/static/bootstrap/css/bootstrap.css" rel="stylesheet">
-<link href="/xy/Public/static/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
-<link href="/xy/Public/static/bootstrap/css/docs.css" rel="stylesheet">
-<link href="/xy/Public/static/bootstrap/css/onethink.css" rel="stylesheet">
-
-<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
-<!--[if lt IE 9]>
-<script src="/xy/Public/static/bootstrap/js/html5shiv.js"></script>
-<![endif]-->
-
-<!--[if lt IE 9]>
-<script type="text/javascript" src="/xy/Public/static/jquery-1.10.2.min.js"></script>
-<![endif]-->
-<!--[if gte IE 9]><!-->
-<script type="text/javascript" src="/xy/Public/static/jquery-2.0.3.min.js"></script>
-<script type="text/javascript" src="/xy/Public/static/bootstrap/js/bootstrap.min.js"></script>
-<!--<![endif]-->
-<!-- 页面header钩子，一般用于加载插件CSS文件和代码 -->
-<?php echo hook('pageHeader');?>
-
+    <meta charset="utf-8">
+    <title>南京雪月信息科技有限公司</title>
+    <link href="bitbug_favicon.ico" rel="shortcut icon"/>
+    <link href="/xy/Public/static/index/css/main.css" rel="stylesheet">
+    <script type="text/javascript" src="/xy/Public/static/index/js/jquery-1.7.2.min.js"></script>
+    <!-- Baidu Tongji BEGIN -->
+    <!-- Baidu Tongji END -->
 </head>
 <body>
-	<!-- 头部 -->
-	<!-- 导航条
-================================================== -->
-<div class="navbar navbar-inverse navbar-fixed-top">
-    <div class="navbar-inner">
-        <div class="container">
-            <a class="brand" href="<?php echo U('index/index');?>">OneThink</a>
-            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <div class="nav-collapse collapse">
-                <ul class="nav">
-                    <?php $__NAV__ = M('Channel')->field(true)->where("status=1")->order("sort")->select(); if(is_array($__NAV__)): $i = 0; $__LIST__ = $__NAV__;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$nav): $mod = ($i % 2 );++$i; if(($nav["pid"]) == "0"): ?><li>
-                            <a href="<?php echo (get_nav_url($nav["url"])); ?>" target="<?php if(($nav["target"]) == "1"): ?>_blank<?php else: ?>_self<?php endif; ?>"><?php echo ($nav["title"]); ?></a>
-                        </li><?php endif; endforeach; endif; else: echo "" ;endif; ?>
-                </ul>
-            </div>
-            <div class="nav-collapse collapse pull-right">
-                <?php if(is_login()): ?><ul class="nav" style="margin-right:0">
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="padding-left:0;padding-right:0"><?php echo get_username();?> <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="<?php echo U('User/profile');?>">修改密码</a></li>
-                                <li><a href="<?php echo U('User/logout');?>">退出</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                <?php else: ?>
-                    <ul class="nav" style="margin-right:0">
-                        <li>
-                            <a href="<?php echo U('User/login');?>">登录</a>
-                        </li>
-                        <li>
-                            <a href="<?php echo U('User/register');?>" style="padding-left:0;padding-right:0">注册</a>
-                        </li>
-                    </ul><?php endif; ?>
-            </div>
+<div class="wrap">
+    <div class="lnbw" style="width: 244px;">
+        <h2 class="logo"><a href="/xy"><img src="/xy/Public/static/index/picture/logo.png" height="90" width="160" /></a></h2>
+        <ul class="lnb">
+           <li><a href="/xy">网站首页</a></li>
+           <li><a href="/xy/index.php?s=/admin/public/login.html">后台管理</a></li>
+           <!--<li><a href="product.html">旗下品牌</a></li>-->
+           <!--<li><a href="">品牌合作</a></li>-->
+           <!--<li><a href="">咨询服务</a></li>-->
+           <!--<li><a href="">各项设施</a></li>-->
+           <!--<li><a href="new.html">新闻动态</a></li>-->
+           <!--<li><a href="">联系我们</a></li>-->
+         </ul>
+        <div class="loginw">
+            公司名称：南京雪月信息科技有限公司<br />
+            邮箱：2364374828@qq.com<br />
+            联系人：翟经理<br />
+            公司地址：南京市栖霞区燕子矶街道和燕路408号1幢521-250号<br />
         </div>
     </div>
 </div>
-
-	<!-- /头部 -->
-	
-	<!-- 主体 -->
-	
-    <header class="jumbotron subhead" id="overview">
-        <div class="container">
-            <h2>源自相同起点，演绎不同精彩！</h2>
-            <p class="lead"></p>
-        </div>
-    </header>
-
-<div id="main-container" class="container">
-    <div class="row">
-        
-<!-- 左侧 nav
-================================================== -->
-    <div class="span3 bs-docs-sidebar">
-        <ul class="nav nav-list bs-docs-sidenav">
-            <?php echo W('Category/lists', array(1, true));?>
-        </ul>
-    </div>
-
-        
-    <div class="span9">
-        <!-- Contents
-        ================================================== -->
-        <section id="contents">
-            <?php $category=D('Category')->getChildrenId(1);$__LIST__ = D('Document')->page(!empty($_GET["p"])?$_GET["p"]:1,10)->lists($category, '`level` DESC,`id` DESC', 1,true); if(is_array($__LIST__)): $i = 0; $__LIST__ = $__LIST__;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$article): $mod = ($i % 2 );++$i;?><div class="">
-                    <h3><a href="<?php echo U('Article/detail?id='.$article['id']);?>"><?php echo ($article["title"]); ?></a></h3>
-                </div>
-                <div>
-                    <p class="lead"><?php echo ($article["description"]); ?></p>
-                </div>
-                <div>
-                    <span><a href="<?php echo U('Article/detail?id='.$article['id']);?>">查看全文</a></span>
-                    <span class="pull-right">
-                        <span class="author"><?php echo (get_username($article["uid"])); ?></span>
-                        <span>于 <?php echo (date('Y-m-d H:i',$article["create_time"])); ?></span> 发表在 <span>
-                        <a href="<?php echo U('Article/lists?category='.get_category_name($article['category_id']));?>"><?php echo (get_category_title($article["category_id"])); ?></a></span> ( 阅读：<?php echo ($article["view"]); ?> )
-                    </span>
-                </div>
-                <hr/><?php endforeach; endif; else: echo "" ;endif; ?>
-
-        </section>
-    </div>
-        </div>
-
-    </div>
+<div class="banner">
+    <ul class="slides">
+        <li style="background:url(/xy/Public/static/index/images/banner.jpg) 50% 0 no-repeat; background-size:cover;"></li>
+        <li style="background:url(/xy/Public/static/index/images/banner2.jpg) 50% 0 no-repeat; background-size:cover;"></li>
+        <li style="background:url(/xy/Public/static/index/images/banner3.jpg) 50% 0 no-repeat; background-size:cover;"></li>
+        <li style="background:url(/xy/Public/static/index/images/banner4.jpg) 50% 0 no-repeat; background-size:cover;"></li>
+        <li style="background:url(/xy/Public/static/index/images/banner1.jpg) 50% 0 no-repeat; background-size:cover;"></li>
+    </ul>
 </div>
+<!-- js调用部分begin -->
 
-<script type="text/javascript">
+<script src="/xy/Public/static/index/js/jquery.flexslider-min.js"></script>
+<script>
     $(function(){
-        $(window).resize(function(){
-            $("#main-container").css("min-height", $(window).height() - 343);
-        }).resize();
-    })
+        $('.banner').flexslider({
+            directionNav: true,
+            pauseOnAction: false
+        });
+    });
 </script>
-	<!-- /主体 -->
 
-	<!-- 底部 -->
-	
-    <!-- 底部
-    ================================================== -->
-    <footer class="footer">
-      <div class="container">
-          <p> 本站由 <strong><a href="#" target="_blank">雪月科技</a></strong> 强力驱动</p>
-      </div>
-    </footer>
 
-<script type="text/javascript">
-(function(){
-	var ThinkPHP = window.Think = {
-		"ROOT"   : "/xy", //当前网站地址
-		"APP"    : "/xy/index.php?s=", //当前项目地址
-		"PUBLIC" : "/xy/Public", //项目公共目录地址
-		"DEEP"   : "<?php echo C('URL_PATHINFO_DEPR');?>", //PATHINFO分割符
-		"MODEL"  : ["<?php echo C('URL_MODEL');?>", "<?php echo C('URL_CASE_INSENSITIVE');?>", "<?php echo C('URL_HTML_SUFFIX');?>"],
-		"VAR"    : ["<?php echo C('VAR_MODULE');?>", "<?php echo C('VAR_CONTROLLER');?>", "<?php echo C('VAR_ACTION');?>"]
-	}
-})();
-</script>
- <!-- 用于加载js代码 -->
-<!-- 页面footer钩子，一般用于加载插件JS文件和JS代码 -->
-<?php echo hook('pageFooter', 'widget');?>
-<div class="hidden"><!-- 用于加载统计代码等隐藏元素 -->
-	
+<div class="footerw">
+    <div class="footer">
+        <div class="footerl">
+            <div class="code"><img src="/xy/Public/static/index/picture/code.png" height="71" width="71" /></div>
+            <div class="copy fl" style="width:250px;">版权所有：南京雪月信息科技有限公司</div>
+            <div class="copy fl" style="width:250px;">备案号：苏ICP备18003941号-1</div>
+            <div class="copy fl" style="width:250px;">技术支持：<a href="">南京雪月信息科技有限公司</a></div>
+        </div>
+    </div>
 </div>
 
-	<!-- /底部 -->
 </body>
 </html>

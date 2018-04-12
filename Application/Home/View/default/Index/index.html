@@ -1,48 +1,68 @@
-<extend name="Base/common"/>
-
-<block name="header">
-    <header class="jumbotron subhead" id="overview">
-        <div class="container">
-            <h2>源自相同起点，演绎不同精彩！</h2>
-            <p class="lead"></p>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8">
+    <title>南京雪月信息科技有限公司</title>
+    <link href="bitbug_favicon.ico" rel="shortcut icon"/>
+    <link href="__STATIC__/index/css/main.css" rel="stylesheet">
+    <script type="text/javascript" src="__STATIC__/index/js/jquery-1.7.2.min.js"></script>
+    <!-- Baidu Tongji BEGIN -->
+    <!-- Baidu Tongji END -->
+</head>
+<body>
+<div class="wrap">
+    <div class="lnbw" style="width: 244px;">
+        <h2 class="logo"><a href="/xy"><img src="__STATIC__/index/picture/logo.png" height="90" width="160" /></a></h2>
+        <ul class="lnb">
+           <li><a href="/xy">网站首页</a></li>
+           <li><a href="/xy/index.php?s=/admin/public/login.html">后台管理</a></li>
+           <!--<li><a href="product.html">旗下品牌</a></li>-->
+           <!--<li><a href="">品牌合作</a></li>-->
+           <!--<li><a href="">咨询服务</a></li>-->
+           <!--<li><a href="">各项设施</a></li>-->
+           <!--<li><a href="new.html">新闻动态</a></li>-->
+           <!--<li><a href="">联系我们</a></li>-->
+         </ul>
+        <div class="loginw">
+            公司名称：南京雪月信息科技有限公司<br />
+            邮箱：2364374828@qq.com<br />
+            联系人：翟经理<br />
+            公司地址：南京市栖霞区燕子矶街道和燕路408号1幢521-250号<br />
         </div>
-    </header>
-</block>
-
-<block name="side">
-<!-- 左侧 nav
-================================================== -->
-    <div class="span3 bs-docs-sidebar">
-        <ul class="nav nav-list bs-docs-sidenav">
-            {:W('Category/lists', array(1, true))}
-        </ul>
     </div>
-</block>
+</div>
+<div class="banner">
+    <ul class="slides">
+        <li style="background:url(__STATIC__/index/images/banner.jpg) 50% 0 no-repeat; background-size:cover;"></li>
+        <li style="background:url(__STATIC__/index/images/banner2.jpg) 50% 0 no-repeat; background-size:cover;"></li>
+        <li style="background:url(__STATIC__/index/images/banner3.jpg) 50% 0 no-repeat; background-size:cover;"></li>
+        <li style="background:url(__STATIC__/index/images/banner4.jpg) 50% 0 no-repeat; background-size:cover;"></li>
+        <li style="background:url(__STATIC__/index/images/banner1.jpg) 50% 0 no-repeat; background-size:cover;"></li>
+    </ul>
+</div>
+<!-- js调用部分begin -->
 
-<block name="body">
-    <div class="span9">
-        <!-- Contents
-        ================================================== -->
-        <section id="contents">
-            <article:list name="article" category="1" child="true">
-                <div class="">
-                    <h3><a href="{:U('Article/detail?id='.$article['id'])}">{$article.title}</a></h3>
-                </div>
-                <div>
-                    <p class="lead">{$article.description}</p>
-                </div>
-                <div>
-                    <span><a href="{:U('Article/detail?id='.$article['id'])}">查看全文</a></span>
-                    <span class="pull-right">
-                        <span class="author">{$article.uid|get_username}</span>
-                        <span>于 {$article.create_time|date='Y-m-d H:i',###}</span> 发表在 <span>
-                        <a href="{:U('Article/lists?category='.get_category_name($article['category_id']))}">{$article.category_id|get_category_title}</a></span> ( 阅读：{$article.view} )
-                    </span>
-                </div>
-                <hr/>
-            </article:list>
+<script src="__STATIC__/index/js/jquery.flexslider-min.js"></script>
+<script>
+    $(function(){
+        $('.banner').flexslider({
+            directionNav: true,
+            pauseOnAction: false
+        });
+    });
+</script>
 
-        </section>
-    </div>
+
+<div class="footerw">
+    <div class="footer">
+        <div class="footerl">
+            <div class="code"><img src="__STATIC__/index/picture/code.png" height="71" width="71" /></div>
+            <div class="copy fl" style="width:250px;">版权所有：南京雪月信息科技有限公司</div>
+            <div class="copy fl" style="width:250px;">备案号：苏ICP备18003941号-1</div>
+            <div class="copy fl" style="width:250px;">技术支持：<a href="">南京雪月信息科技有限公司</a></div>
         </div>
-</block>
+    </div>
+</div>
+
+</body>
+</html>

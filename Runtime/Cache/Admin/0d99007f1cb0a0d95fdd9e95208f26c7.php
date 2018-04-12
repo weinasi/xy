@@ -22,7 +22,7 @@
         flash_swf_url: '/xy/Addons/PluploadImages/plupload/Moxie.swf', //flash文件地址
         silverlight_xap_url: '/xy/Addons/PluploadImages/plupload/Moxie.xap', //silverlight文件地址
         filters: {  
-            max_file_size: '500kb', //最大上传文件大小（格式100b, 10kb, 10mb, 1gb）
+            max_file_size: '1gb', //最大上传文件大小（格式100b, 10kb, 10mb, 1gb）
             mime_types: [//允许文件上传类型
                 {title: "files", extensions: "jpg,png,gif" }
             ]
@@ -30,7 +30,7 @@
         multi_selection: true, //true:ctrl多文件上传, false 单文件上传
         init: {
             FilesAdded: function(up, files) { //文件上传前
-                if ($("#ul_pics").children("li").length > 6) {
+                if ($("#ul_pics").children("li").length > 20) {
                     alert("您上传的图片太多了！");
                     uploader.destroy();
                 } else {
