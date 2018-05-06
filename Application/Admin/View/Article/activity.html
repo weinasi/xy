@@ -20,7 +20,7 @@
 
             <!--<button class="btn ajax-post" target-form="ids" url="{:U("Article/setStatus",array("status"=>1))}">启 用</button>-->
 			<!--<button class="btn ajax-post" target-form="ids" url="{:U("Article/setStatus",array("status"=>0))}">禁 用</button>-->
-			<button class="btn ajax-post confirm" target-form="ids" url="{:U("Article/setActivityStatus",array("status"=>-1))}">删 除</button>
+			<!--<button class="btn ajax-post confirm" target-form="ids" url="{:U("Article/setActivityStatus",array("status"=>-1))}">删 除</button>-->
 		</div>
 
 		<!-- 高级搜索 -->
@@ -57,8 +57,8 @@
 
 
 	<!-- 数据表格 -->
-    <div class="data-table">
-		<table class="">
+    <div class="data-table" style="overflow: auto; width: 100%;">
+		<table class="tab_css_1">
     <thead>
         <tr>
 			<th class="row-selected row-selected"><input class="check-all" type="checkbox"/></th>
@@ -67,6 +67,7 @@
 			<th class="font8">日期始</th>
 			<th class="font8">日期止</th>
 			<th class="font8">地点</th>
+			<th class="font8">详细地址</th>
 			<th class="font8">状态</th>
 			<th class="font8">总数量</th>
 			<th class="font8">已报总数量</th>
@@ -87,14 +88,15 @@
     </thead>
     <tbody>
 		<volist name="list" id="vo">
-		<tr>
+		<tr class="tr_css">
             <td><input class="ids" type="checkbox" name="ids[]" value="{$vo.id}" /></td>
 			<td>{$vo.hdbh} </td>
 			<td>{$vo.hdmc}</td>
 			<td><span style="font-size: 10px;">{$vo.rqs}</span></td>
 			<td><span style="font-size: 10px;">{$vo.rqz}</span></td>
 			<td>{$vo.dd}</td>
-			<td>{$vo.zt}</td>
+			<td>{$vo.address}</td>
+			<td>{$vo.ztDes}</td>
 			<td>{$vo.zsl}</td>
 			<td>{$vo.bmzsl}</td>
 			<td>{$vo.bmjg}</td>
@@ -114,7 +116,13 @@
 			<td>{$vo.hdxq}</td>
 			<td><a class="font8" href="{:U('Article/activityEdit?id='.$vo['id'])}">编辑</a>
 				<!--<a href="{:U('Article/setStatus?ids='.$vo['id'].'&status='.abs(1-$vo['status']))}" class="ajax-get">{$vo.status|show_status_op}</a>-->
-				<a class="font8" href="{:U('Article/setActivityStatus?status=-1&id='.$vo['id'])}" class="confirm ajax-get">删除</a>
+				<!--<a class="font8" href="{:U('Article/setActivityStatus?status=-1&id='.$vo['id'])}" class="confirm ajax-get">删除</a>-->
+				<?php if (($vo['zt'] != 3) && ($vo['zt'] != 0)){ ?>
+				<a class="font8" name="{$vo['hdmc']}" onclick="cancel($(this))" url="{:U('Article/cancelActivity?status=-1&id='.$vo['id'])}" class="confirm ajax-get">取消</a>
+				<?php  }?>
+
+
+				<a class="font8" name="{$vo['hdmc']}" onclick="del($(this))" url="{:U('Article/setActivityStatus?status=-1&id='.$vo['id'])}" class="confirm ajax-get">删除</a>
                 </td>
 		</tr>
 		</volist>
@@ -194,5 +202,28 @@ $(function(){
     })
     
 })
+
+function del(obj) {
+	if(confirm("真的要删除"+obj.attr('name')+"活动吗?")){
+		console.log(obj.attr('url'));
+		var url = obj.attr('url');
+		window.location.href = url;
+	}
+//	else{
+//		alert("点击了取消按钮");
+//	}
+}
+
+function cancel(obj) {
+	if(confirm("真的要取消"+obj.attr('name')+"活动吗?")){
+		console.log(obj.attr('url'));
+		var url = obj.attr('url');
+		window.location.href = url;
+	}
+//	else{
+//		alert("点击了取消按钮");
+//	}
+}
+
 </script>
 </block>

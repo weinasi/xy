@@ -914,6 +914,28 @@ class ArticleController extends AdminController {
             if($l['xct']){
                 $l['xcts'] = explode(',',substr($l['xct'],0,strlen($l['xct'])-1));
             }
+
+            if($l['zt']){
+                //正在报名：当前时间小于活动开始时间
+                if(time()<strtotime($l['rqs'])){
+                    $l['zt'] = 1;
+                    $l['ztDes'] = '<span style="color: #00cc00;">正在报名</span>';
+                }
+                //已截止：当前时间大于活动开始时间且小于活动结束时间
+                if((time()>=strtotime($l['rqs'])) && (time()<=strtotime($l['rqz']))){
+                    $l['zt'] = 2;
+                    $l['ztDes'] = '<span style="color: #a47e3c;">已截止</span>';
+                }
+                //已完成：当前时间大于活动结束时间
+                if(time()>strtotime($l['rqz'])){
+                    $l['zt'] = 4;
+                    $l['ztDes'] = '<span style="color: #880000">已完成</span>';
+                }
+
+            }else{
+                $l['zt'] = 3;
+                $l['ztDes'] = '<span style="color: black;">已取消</span>';
+            }
         }
         $this->assign('list', $list);
 
@@ -980,6 +1002,25 @@ class ArticleController extends AdminController {
         $this->assign('model',$model);
         //
 
+        //设置活动状态
+        if($activity['zt']){
+            //正在报名：当前时间小于活动开始时间
+            if(time()<strtotime($activity['rqs'])){
+                $activity['zt'] = 1;
+            }
+            //已截止：当前时间大于活动开始时间且小于活动结束时间
+            if((time()>=strtotime($activity['rqs'])) && (time()<=strtotime($activity['rqz']))){
+                $activity['zt'] = 2;
+            }
+            //已完成：当前时间大于活动结束时间
+            if(time()>strtotime($activity['rqz'])){
+                $activity['zt'] = 4;
+            }
+
+        }else{
+            $activity['zt'] = 3;
+        }
+
         $this->assign('isEdit', 2);
         $this->assign('data', $activity);
 
@@ -1028,6 +1069,16 @@ class ArticleController extends AdminController {
         }else{
             $this->success('删除成功', Cookie('__forward__'));
         }
+
+    }
+
+    public function cancelActivity(){
+        if($_GET['id']){
+            $activities = D('Activity');
+            $data['zt'] = false;
+            $activities->where('id='.$_GET['id'])->save($data);
+        }
+        $this->success('取消成功', Cookie('__forward__'));
 
     }
 

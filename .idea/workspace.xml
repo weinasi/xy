@@ -2,30 +2,1076 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd1aeadd-2152-43c3-b1a3-c44f2d5b5cd1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logo.png" afterPath="$PROJECT_DIR$/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/doc/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/doc/README.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/image/bk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/image/image001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/image/image002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/doc/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/doc/README.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/image/bk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/image/image001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/image/image002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/doc/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/doc/README.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/image/bk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/image/image001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/image/image002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/doc/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/doc/README.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/image/bk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/image/image001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/image/image002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/doc/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/doc/README.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/image/bk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/image/image001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/image/image002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_10.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_11.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_12.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_13.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_14.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_15.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_16.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_17.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_18.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_19.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_20.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_21.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_22.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_23.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_24.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_25.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_26.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_27.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_28.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_29.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_30.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_31.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_32.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_33.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_34.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_34.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_35.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_36.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_37.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_38.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_39.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_39.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_40.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_8.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_9.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/frame_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_101_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_105_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_109_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_113_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_117_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_121_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_125_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_129_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_133_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_137_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_141_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_145_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_149_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_153_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_157_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_161_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_165_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_169_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_173_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_177_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_21_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_25_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_29_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_33_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_37_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_41_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_45_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_49_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_53_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_57_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_61_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_65_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_69_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_73_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_77_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_81_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_85_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_89_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_93_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_0/mask_97_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_101_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_105_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_109_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_113_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_117_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_121_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_125_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_129_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_133_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_137_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_141_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_145_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_149_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_153_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_157_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_161_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_165_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_169_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_173_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_177_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_21_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_25_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_29_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_33_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_37_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_41_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_45_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_49_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_53_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_57_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_61_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_65_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_69_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_73_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_77_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_81_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_85_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_89_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_93_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_1/mask_97_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_101_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_105_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_109_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_113_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_117_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_121_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_125_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_129_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_133_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_137_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_141_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_145_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_149_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_153_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_157_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_161_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_165_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_169_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_173_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_177_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_21_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_25_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_29_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_33_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_37_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_41_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_45_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_49_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_53_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_57_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_61_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_65_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_69_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_73_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_77_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_81_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_85_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_89_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_93_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_2/mask_97_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_101_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_105_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_109_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_113_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_117_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_121_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_125_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_129_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_133_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_137_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_141_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_145_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_149_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_153_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_157_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_161_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_165_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_169_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_173_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_177_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_21_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_25_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_29_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_33_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_37_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_41_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_45_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_49_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_53_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_57_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_61_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_65_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_69_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_73_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_77_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_81_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_85_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_89_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_93_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_3/mask_97_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_101_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_105_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_109_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_113_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_117_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_121_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_125_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_129_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_133_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_137_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_141_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_145_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_149_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_153_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_157_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_161_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_165_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_169_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_173_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_177_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_21_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_25_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_29_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_33_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_37_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_41_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_45_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_49_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_53_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_57_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_61_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_65_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_69_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_73_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_77_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_81_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_85_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_89_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_93_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_4/mask_97_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_101_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_105_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_109_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_113_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_117_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_121_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_125_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_129_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_133_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_137_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_141_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_145_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_149_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_153_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_157_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_161_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_165_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_169_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_173_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_177_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_21_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_25_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_29_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_33_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_37_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_41_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_45_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_49_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_53_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_57_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_61_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_65_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_69_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_73_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_77_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_81_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_85_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_89_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_93_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_5/mask_97_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_101_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_105_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_109_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_113_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_117_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_121_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_125_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_129_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_133_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_137_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_141_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_145_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_149_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_153_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_157_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_161_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_165_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_169_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_173_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_177_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_21_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_25_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_29_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_33_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_37_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_41_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_45_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_49_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_53_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_57_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_61_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_65_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_69_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_73_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_77_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_81_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_85_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_89_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_93_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_6/mask_97_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_101_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_105_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_109_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_113_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_117_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_121_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_125_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_129_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_133_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_137_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_141_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_145_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_149_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_153_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_157_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_161_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_165_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_169_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_173_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_177_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_21_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_25_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_29_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_33_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_37_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_41_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_45_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_49_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_53_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_57_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_61_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_65_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_69_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_73_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_77_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_81_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_85_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_89_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_93_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/cache/mask_7/mask_97_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_10.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_11.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_12.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_13.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_14.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_15.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_16.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_17.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_18.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_19.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_20.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_21.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_22.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_23.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_24.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_25.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_26.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_27.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_28.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_29.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_30.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_31.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_32.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_33.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_34.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_34.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_35.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_36.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_37.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_38.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_39.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_39.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_40.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_8.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_9.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/frame_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_101_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_105_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_109_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_113_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_117_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_121_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_125_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_129_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_133_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_137_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_141_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_145_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_149_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_153_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_157_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_161_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_165_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_169_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_173_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_177_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_21_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_25_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_29_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_33_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_37_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_41_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_45_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_49_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_53_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_57_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_61_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_65_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_69_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_73_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_77_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_81_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_85_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_89_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_93_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_0/mask_97_0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_101_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_105_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_109_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_113_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_117_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_121_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_125_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_129_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_133_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_137_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_141_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_145_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_149_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_153_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_157_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_161_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_165_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_169_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_173_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_177_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_21_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_25_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_29_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_33_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_37_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_41_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_45_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_49_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_53_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_57_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_61_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_65_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_69_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_73_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_77_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_81_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_85_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_89_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_93_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_1/mask_97_1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_101_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_105_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_109_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_113_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_117_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_121_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_125_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_129_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_133_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_137_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_141_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_145_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_149_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_153_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_157_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_161_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_165_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_169_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_173_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_177_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_21_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_25_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_29_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_33_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_37_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_41_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_45_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_49_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_53_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_57_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_61_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_65_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_69_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_73_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_77_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_81_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_85_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_89_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_93_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_2/mask_97_2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_101_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_105_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_109_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_113_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_117_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_121_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_125_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_129_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_133_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_137_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_141_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_145_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_149_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_153_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_157_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_161_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_165_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_169_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_173_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_177_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_21_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_25_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_29_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_33_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_37_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_41_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_45_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_49_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_53_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_57_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_61_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_65_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_69_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_73_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_77_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_81_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_85_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_89_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_93_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_3/mask_97_3.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_101_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_105_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_109_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_113_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_117_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_121_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_125_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_129_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_133_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_137_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_141_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_145_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_149_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_153_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_157_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_161_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_165_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_169_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_173_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_177_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_21_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_25_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_29_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_33_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_37_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_41_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_45_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_49_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_53_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_57_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_61_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_65_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_69_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_73_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_77_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_81_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_85_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_89_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_93_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_4/mask_97_4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_101_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_105_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_109_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_113_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_117_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_121_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_125_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_129_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_133_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_137_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_141_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_145_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_149_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_153_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_157_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_161_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_165_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_169_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_173_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_177_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_21_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_25_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_29_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_33_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_37_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_41_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_45_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_49_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_53_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_57_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_61_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_65_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_69_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_73_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_77_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_81_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_85_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_89_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_93_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_5/mask_97_5.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_101_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_105_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_109_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_113_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_117_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_121_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_125_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_129_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_133_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_137_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_141_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_145_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_149_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_153_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_157_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_161_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_165_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_169_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_173_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_177_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_21_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_25_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_29_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_33_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_37_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_41_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_45_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_49_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_53_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_57_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_61_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_65_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_69_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_73_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_77_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_81_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_85_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_89_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_93_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_6/mask_97_6.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_101_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_105_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_109_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_113_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_117_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_121_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_125_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_129_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_133_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_137_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_141_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_145_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_149_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_153_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_157_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_161_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_165_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_169_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_173_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_177_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_21_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_25_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_29_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_33_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_37_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_41_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_45_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_49_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_53_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_57_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_61_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_65_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_69_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_73_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_77_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_81_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_85_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_89_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_93_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/cache/mask_7/mask_97_7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.snowzhai.com/IIS/www.snowzhai.com.pfx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.snowzhai.com/Tomcat/www.snowzhai.com.jks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/cert/apiclient_cert-old.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/cert/apiclient_cert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/cert/apiclient_key-old.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/cert/apiclient_key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/example/WxPay.JsApiPay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/example/WxPay.MicroPay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/example/WxPay.NativePay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/example/download.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/example/jsapi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/example/log.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/example/micropay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/example/native.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/example/native_notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/example/notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/example/orderquery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/example/phpqrcode/phpqrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/example/qrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/example/refund.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/example/refundquery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/lib/WxPay.Api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/lib/WxPay.Config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/lib/WxPay.Data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/lib/WxPay.Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/lib/WxPay.Notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Wxpay/payment/WxPay.JsApiPay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/cert/apiclient_cert-old.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/cert/apiclient_cert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/cert/apiclient_key-old.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/cert/apiclient_key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/example/WxPay.JsApiPay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/example/WxPay.MicroPay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/example/WxPay.NativePay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/example/download.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/example/jsapi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/example/log.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/example/micropay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/example/native.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/example/native_notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/example/notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/example/orderquery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/example/phpqrcode/phpqrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/example/qrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/example/refund.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/example/refundquery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/lib/WxPay.Api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/lib/WxPay.Config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/lib/WxPay.Data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/lib/WxPay.Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/lib/WxPay.Notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Home/Common/Wxpay/payment/WxPay.JsApiPay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/cert/apiclient_cert-old.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/cert/apiclient_cert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/cert/apiclient_key-old.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/cert/apiclient_key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/example/WxPay.JsApiPay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/example/WxPay.MicroPay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/example/WxPay.NativePay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/example/download.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/example/jsapi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/example/log.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/example/micropay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/example/native.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/example/native_notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/example/notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/example/orderquery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/example/phpqrcode/phpqrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/example/qrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/example/refund.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/example/refundquery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/lib/WxPay.Api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/lib/WxPay.Config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/lib/WxPay.Data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/lib/WxPay.Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WxPay1/lib/WxPay.Notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/cert/apiclient_cert-old.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/cert/apiclient_cert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/cert/apiclient_key-old.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/cert/apiclient_key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/example/WxPay.JsApiPay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/example/WxPay.MicroPay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/example/WxPay.NativePay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/example/download.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/example/jsapi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/example/log.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/example/micropay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/example/native.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/example/native_notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/example/notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/example/orderquery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/example/phpqrcode/phpqrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/example/qrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/example/refund.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/example/refundquery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/lib/WxPay.Api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/lib/WxPay.Config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/lib/WxPay.Data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/lib/WxPay.Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Wxpay/lib/WxPay.Notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/cert/apiclient_cert-old.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/cert/apiclient_cert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/cert/apiclient_key-old.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/cert/apiclient_key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/example/WxPay.JsApiPay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/example/WxPay.MicroPay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/example/WxPay.NativePay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/example/download.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/example/jsapi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/example/log.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/example/micropay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/example/native.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/example/native_notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/example/notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/example/orderquery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/example/phpqrcode/phpqrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/example/qrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/example/refund.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/example/refundquery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/lib/WxPay.Api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/lib/WxPay.Config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/lib/WxPay.Data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/lib/WxPay.Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/lib/WxPay.Notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/payment/WxPay.JsApiPay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/WxPay.JsApiPay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/WxPay.MicroPay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/WxPay.NativePay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/download.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/jsapi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/log.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/micropay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/native - 副本.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/native.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/native_notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/orderquery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/CHANGELOG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/bindings/tcpdf/qrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/phpqrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/qrbitstream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/qrconfig.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/qrconst.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/qrencode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/qrimage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/qrinput.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/qrlib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/qrmask.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/qrrscode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/qrspec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/qrsplit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/qrtools.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/tools/merge.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/tools/merge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/tools/merge.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/tools/merged_config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/phpqrcode/tools/merged_header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/qrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/refund.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WxPay1/qrcode/refundquery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/lib/WxPay.Api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/lib/WxPay.Config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/lib/WxPay.Data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/lib/WxPay.Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/lib/WxPay.Notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/WxPay.JsApiPay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/WxPay.MicroPay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/WxPay.NativePay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/download.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/jsapi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/log.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/micropay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/native - 副本.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/native.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/native_notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/notify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/orderquery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/CHANGELOG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/bindings/tcpdf/qrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/phpqrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/qrbitstream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/qrconfig.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/qrconst.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/qrencode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/qrimage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/qrinput.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/qrlib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/qrmask.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/qrrscode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/qrspec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/qrsplit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/qrtools.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/tools/merge.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/tools/merge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/tools/merge.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/tools/merged_config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/phpqrcode/tools/merged_header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/qrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/refund.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wxpay/qrcode/refundquery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cert/apiclient_cert-old.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cert/apiclient_cert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cert/apiclient_key-old.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cert/apiclient_key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.snowzhai.com/Apache/1_root_bundle.crt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.snowzhai.com/Apache/2_www.snowzhai.com.crt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.snowzhai.com/Apache/3_www.snowzhai.com.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.snowzhai.com/Nginx/1_www.snowzhai.com_bundle.crt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.snowzhai.com/Nginx/2_www.snowzhai.com.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.snowzhai.com/www.snowzhai.com.csr" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bom.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Model/ActivityModel.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Model/ActivityModel.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/View/Article/activity.html" afterPath="$PROJECT_DIR$/Application/Admin/View/Article/activity.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/View/Article/activityEdit.html" afterPath="$PROJECT_DIR$/Application/Admin/View/Article/activityEdit.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/View/Index/index.html" afterPath="$PROJECT_DIR$/Application/Admin/View/Index/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/View/Public/base.html" afterPath="$PROJECT_DIR$/Application/Admin/View/Public/base.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/Common/function.php" afterPath="$PROJECT_DIR$/Application/Home/Common/function.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/Controller/WxaController.class.php" afterPath="$PROJECT_DIR$/Application/Home/Controller/WxaController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/default/Index/index.html" afterPath="$PROJECT_DIR$/Application/Home/View/default/Index/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/default/Public/head.html" afterPath="$PROJECT_DIR$/Application/Home/View/default/Public/head.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/default/Public/header.html" afterPath="$PROJECT_DIR$/Application/Home/View/default/Public/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/0d99007f1cb0a0d95fdd9e95208f26c7.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/0d99007f1cb0a0d95fdd9e95208f26c7.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/4bc4913b407324fb4d494724d5710d65.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/4bc4913b407324fb4d494724d5710d65.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/50122fa2bddc1c4a2751081bf5f0b5dc.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/50122fa2bddc1c4a2751081bf5f0b5dc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/5de3ad3cb2669b692ef5954e1c687884.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/5de3ad3cb2669b692ef5954e1c687884.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/62c9d7a522bd79c224f73a09e7c08993.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/62c9d7a522bd79c224f73a09e7c08993.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/65e605872ed5d34210f5b33beb13f5a3.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/65e605872ed5d34210f5b33beb13f5a3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/761055de2f430bef08441163fbb8bda7.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/761055de2f430bef08441163fbb8bda7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/7a54dd9e9dc132cda242d6613e01cc5c.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/7a54dd9e9dc132cda242d6613e01cc5c.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/9812c11bb5c3e4798518c01300de14df.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/9812c11bb5c3e4798518c01300de14df.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/9cbe2ce630b3f2a030f0076f4d17e323.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/9cbe2ce630b3f2a030f0076f4d17e323.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/a19c61cfee223baefda0957133831085.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/a19c61cfee223baefda0957133831085.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/b595b808c2ebeeeb0478ffc30bb4e87a.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/b595b808c2ebeeeb0478ffc30bb4e87a.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/e915606f4666252950bacf14eab57f78.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/e915606f4666252950bacf14eab57f78.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/769e70f2e46f34ceb60619bbda5e4691.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/769e70f2e46f34ceb60619bbda5e4691.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="xy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,69 +1092,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Home/View/default/Index/index.html">
+      <file leaf-file-name="AuthGroupModel.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Admin/Model/AuthGroupModel.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="26" column="29" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="29" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#2;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WxaController.class.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Application/Home/Controller/WxaController.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="440" column="0" selection-start-line="440" selection-start-column="0" selection-end-line="440" selection-end-column="0" />
-              <folding>
-                <element signature="e#1214#3188#0#PHP" expanded="false" />
-                <element signature="e#22626#22780#0#PHP" expanded="false" />
-                <element signature="e#22786#25372#0#PHP" expanded="false" />
-                <element signature="e#25388#29849#0#PHP" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArticleController.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18458">
-              <caret line="916" column="9" selection-start-line="912" selection-start-column="8" selection-end-line="916" selection-end-column="9" />
-              <folding>
-                <element signature="e#13800#14869#0#PHP" expanded="false" />
-                <element signature="e#19727#20805#0#PHP" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ActivityModel.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Admin/Model/ActivityModel.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12936">
-              <caret line="595" column="27" selection-start-line="595" selection-start-column="23" selection-end-line="595" selection-end-column="27" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activityEdit.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Admin/View/Article/activityEdit.html">
+      <file leaf-file-name="DocumentModel.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/Model/DocumentModel.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1870">
-              <caret line="85" column="74" selection-start-line="85" selection-start-column="70" selection-end-line="85" selection-end-column="74" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemberModel.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/Model/MemberModel.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -117,48 +1125,74 @@
       <file leaf-file-name="ActivityModel.class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Application/Home/Model/ActivityModel.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Admin/View/Index/index.html">
+      <file leaf-file-name="CategoryModel.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/Model/CategoryModel.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Home/View/default/Article/index.html">
+      <file leaf-file-name="ChannelModel.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/Model/ChannelModel.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Home/View/default/Public/head.html">
+      <file leaf-file-name="EntryActivityDetailModel.class.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Application/Home/Model/EntryActivityDetailModel.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="52" column="44" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AttributeModel.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Admin/Model/AttributeModel.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4488">
+              <caret line="210" column="35" selection-start-line="210" selection-start-column="33" selection-end-line="210" selection-end-column="35" />
+              <folding>
+                <marker date="1387551528000" expanded="true" signature="5122:5243" ph="ALTER TABLE `${{$this-&gt;table_name}}`... " />
+                <marker date="1387551528000" expanded="true" signature="5439:5822" ph="CREATE TABLE... IF" />
+                <marker date="1387551528000" expanded="true" signature="5872:6164" ph="CREATE TABLE... IF" />
+                <marker date="1387551528000" expanded="true" signature="6718:6858" ph="ALTER TABLE `${{$this-&gt;table_name}}`... " />
+                <marker date="1387551528000" expanded="true" signature="7227:7260" ph="ALTER TABLE `${{$this-&gt;table_name}}`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserModel.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/Model/UserModel.class.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+              <caret line="17" column="70" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="70" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Admin/View/Public/base.html">
+      <file leaf-file-name="PayModel.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/Model/PayModel.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+            <state relative-caret-position="748">
+              <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -182,7 +1216,6 @@
         <option value="$PROJECT_DIR$/Application/Home/Model/ActivitiesModel.class.php" />
         <option value="$PROJECT_DIR$/Application/Home/Model/ActivityModel.class.php" />
         <option value="$PROJECT_DIR$/Application/Home/Model/UserModel.class.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/Application/Home/View/default/Public/footer.html" />
         <option value="$PROJECT_DIR$/Application/Admin/View/Public/login.html" />
         <option value="$PROJECT_DIR$/Application/Install/Conf/config.php" />
@@ -194,20 +1227,30 @@
         <option value="$PROJECT_DIR$/Application/Admin/View/Addons/config.html" />
         <option value="$PROJECT_DIR$/Application/Admin/Common/function.php" />
         <option value="$PROJECT_DIR$/Application/Admin/View/Article/img.html" />
-        <option value="$PROJECT_DIR$/Application/Admin/View/Article/activity.html" />
-        <option value="$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php" />
         <option value="$PROJECT_DIR$/Addons/PluploadImages/zm_upload.html" />
         <option value="$PROJECT_DIR$/Application/Admin/Conf/config.php" />
-        <option value="$PROJECT_DIR$/Application/Admin/View/Article/activityEdit.html" />
         <option value="$PROJECT_DIR$/Application/Home/View/default/Public/header.html" />
         <option value="$PROJECT_DIR$/Public/Index/default.html" />
         <option value="$PROJECT_DIR$/Application/Home/View/default/Public/head.html" />
-        <option value="$PROJECT_DIR$/Application/Admin/View/Public/base.html" />
         <option value="$PROJECT_DIR$/Application/Admin/View/Index/index.html" />
         <option value="$PROJECT_DIR$/Application/Home/View/default/Index/index.html" />
-        <option value="$PROJECT_DIR$/Application/Home/Common/function.php" />
+        <option value="$PROJECT_DIR$/Application/Admin/View/Public/base.html" />
         <option value="$PROJECT_DIR$/Application/Admin/Model/ActivityModel.class.php" />
+        <option value="$PROJECT_DIR$/Application/Admin/View/Article/activity.html" />
+        <option value="$PROJECT_DIR$/Application/Admin/View/Article/activityEdit.html" />
+        <option value="$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php" />
+        <option value="$PROJECT_DIR$/wxpay/lib/WxPay.Api.php" />
+        <option value="$PROJECT_DIR$/wxpay/lib/WxPay.Config.php" />
+        <option value="$PROJECT_DIR$/wxpay/lib/WxPay.Notify.php" />
+        <option value="$PROJECT_DIR$/WxPay/payment/WxPay.JsApiPay.php" />
+        <option value="$PROJECT_DIR$/Application/Home/Common/Wxpay/lib/WxPay.Config.php" />
+        <option value="$PROJECT_DIR$/Application/Common/Wxpay/example/WxPay.NativePay.php" />
+        <option value="$PROJECT_DIR$/Wxpay/lib/WxPay.Config.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Application/Home/Common/function.php" />
         <option value="$PROJECT_DIR$/Application/Home/Controller/WxaController.class.php" />
+        <option value="$PROJECT_DIR$/Application/Home/Model/PayModel.class.php" />
+        <option value="$PROJECT_DIR$/Application/Home/Model/EntryActivityDetailModel.class.php" />
       </list>
     </option>
   </component>
@@ -228,7 +1271,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1430" />
-    <option name="height" value="849" />
+    <option name="height" value="848" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -255,8 +1298,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -265,210 +1306,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controller" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Common" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Admin" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="View" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Admin" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="View" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Article" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Admin" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Model" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Admin" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xy" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Admin" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controller" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../linde_web" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
@@ -476,11 +1323,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Application/Home/Controller" />
+      <recent name="$PROJECT_DIR$/Application/Home/Model" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Public/static" />
+      <recent name="$PROJECT_DIR$/Application/Common" />
+      <recent name="$PROJECT_DIR$/Application/Home/Common" />
       <recent name="$PROJECT_DIR$/Public" />
-      <recent name="$PROJECT_DIR$/Addons" />
     </key>
   </component>
   <component name="RunManager">
@@ -568,18 +1415,43 @@
       <workItem from="1523461354271" duration="1753000" />
       <workItem from="1523498228379" duration="1598000" />
       <workItem from="1523500275712" duration="828000" />
-      <workItem from="1523501389931" duration="48000" />
+      <workItem from="1523501389931" duration="922000" />
+      <workItem from="1523542957171" duration="7921000" />
+      <workItem from="1523606568927" duration="4324000" />
+      <workItem from="1523611066352" duration="138000" />
+      <workItem from="1523611328346" duration="237000" />
+      <workItem from="1524016295784" duration="4130000" />
+      <workItem from="1524022319877" duration="49000" />
+      <workItem from="1524057642940" duration="2409000" />
+      <workItem from="1524148052913" duration="128000" />
+      <workItem from="1524216934357" duration="10421000" />
+      <workItem from="1524375080188" duration="422000" />
+      <workItem from="1524402508919" duration="672000" />
+      <workItem from="1524403996889" duration="9491000" />
+      <workItem from="1524450317508" duration="4235000" />
+      <workItem from="1524456482946" duration="2904000" />
+      <workItem from="1524492128614" duration="1331000" />
+      <workItem from="1525233159483" duration="2527000" />
+      <workItem from="1525588231315" duration="13000" />
     </task>
+    <task id="LOCAL-00001" summary="样式添加">
+      <created>1523501480550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523501480550</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97541000" />
+    <option name="totallyTimeSpent" value="149767000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1430" height="849" extended-state="6" />
+    <frame x="0" y="23" width="1430" height="848" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18371758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22694525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29001367" sideWeight="0.5028818" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -609,42 +1481,41 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="样式添加" />
+    <option name="LAST_COMMIT_MESSAGE" value="样式添加" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php</url>
-          <line>968</line>
+          <line>990</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php</url>
-          <line>961</line>
+          <line>983</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/Application/Admin/Model/ActivityModel.class.php</url>
-          <line>695</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php</url>
-          <line>1030</line>
+          <line>1071</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/Application/Home/Controller/WxaController.class.php</url>
-          <line>408</line>
+          <line>220</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/Application/Home/Controller/WxaController.class.php</url>
-          <line>323</line>
+          <line>95</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php</url>
-          <line>983</line>
+          <line>1024</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
@@ -659,7 +1530,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/Application/Home/Controller/WxaController.class.php</url>
-          <line>433</line>
+          <line>261</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
@@ -672,275 +1543,171 @@
           <line>157</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php</url>
+          <line>919</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="32" />
+      <option name="time" value="35" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Addons/DevTeam/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-98">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Application/User/Conf/config.php">
+    <entry file="file://$PROJECT_DIR$/WxPay/payment/log.php" />
+    <entry file="file://$PROJECT_DIR$/WxPay1/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Common/Conf/config.php">
+    <entry file="file://$PROJECT_DIR$/WxPay1/lib/WxPay.Api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WxPay1/payment/WxPay.JsApiPay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WxPay1/example/log.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Addons/config.html">
+    <entry file="file://$PROJECT_DIR$/WxPay1/example/WxPay.JsApiPay.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        <state relative-caret-position="4334">
+          <caret line="197" column="53" selection-start-line="197" selection-start-column="53" selection-end-line="197" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Think/Upload.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3580">
-          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Uploads/Picture/2018-03-26/5ab8fe97b52a4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Uploads/Picture/2018-03-26/5ab90b4e7789a.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Uploads/Picture/2018-03-26/5ab90e59b0b52.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Uploads/Picture/2018-03-26/5ab90261c5e19.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Addons/PluploadImages1/style/PluploadImages.css" />
-    <entry file="file://$PROJECT_DIR$/Uploads/Picture/2018-03-26/5ab908dd4918e.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Article/img.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="7" selection-start-line="11" selection-start-column="0" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Uploads/2018-03-27/5ab9fdd24fcd8.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Uploads/2018-03-27/5aba03f607ae5.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Uploads/2018-03-27/5aba052149ebc.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Uploads/2018-03-27/5aba05142972b.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Uploads/Picture/2018-03-27/5aba4300d860f.png" />
-    <entry file="file://$PROJECT_DIR$/Uploads/Picture/2018-03-27/5aba42bbda1d4.png" />
-    <entry file="file://$PROJECT_DIR$/Addons/PluploadImages/config.php">
+    <entry file="file://$PROJECT_DIR$/1.txt" />
+    <entry file="file://$PROJECT_DIR$/0.txt" />
+    <entry file="file://$PROJECT_DIR$/Public/charles-proxy-ssl-proxying-certificate.pem">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/Common/function.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="81" column="69" selection-start-line="81" selection-start-column="69" selection-end-line="81" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/FileController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="99" column="46" selection-start-line="99" selection-start-column="25" selection-end-line="99" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/Conf/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1088">
-          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Addons/PluploadImages/plupload/plupload.full.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="12" column="10066" selection-start-line="12" selection-start-column="10066" selection-end-line="12" selection-end-column="10066" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Addons/PluploadImages/zm_upload.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Addons/PluploadImages/script/UploadImages.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="29" column="27" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Addons/PluploadImages/plupload/moxie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14762">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Addons/PluploadImages/PluploadImagesAddon.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-846">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Article/activity.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2200">
-          <caret line="100" column="37" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Article/add.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1914">
-          <caret line="87" column="54" selection-start-line="87" selection-start-column="46" selection-end-line="87" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Home/View/default/Public/body.html">
+    <entry file="file://$PROJECT_DIR$/Application/Home/Common/Wxpay/example/download.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Public/Index/js/jquery-1.7.2.min.js" />
-    <entry file="file://$PROJECT_DIR$/Public/Index/default.html" />
-    <entry file="file://$PROJECT_DIR$/Public/static/index/js/jquery-1.7.2.min.js">
+    <entry file="file://$PROJECT_DIR$/cert/apiclient_key.pem">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Public/static/index/default.html">
+    <entry file="file://$PROJECT_DIR$/Application/Home/Common/Wxpay/lib/WxPay.Config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1892">
-          <caret line="86" column="12" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="12" />
+        <state relative-caret-position="-44">
+          <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Home/View/default/Base/common.html">
+    <entry file="file://$PROJECT_DIR$/Application/Home/Common/Wxpay/lib/WxPay.Api.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="33" />
+        <state relative-caret-position="-12374">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Home/View/default/Public/header.html">
+    <entry file="file://$PROJECT_DIR$/Application/Home/Common/Wxpay/lib/WxPay.Exception.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1034">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Home/View/default/Public/head.html">
+    <entry file="file://$PROJECT_DIR$/Application/Home/Common/Wxpay/lib/WxPay.Notify.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Public/base.html">
+    <entry file="file://$PROJECT_DIR$/Application/Common/Wxpay/lib/WxPay.Api.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-          <folding />
+        <state relative-caret-position="-1518">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Home/View/default/Article/index.html">
+    <entry file="file://$PROJECT_DIR$/666666.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/屏幕快照 2018-03-29 上午1.33.05.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Index/index.html">
+    <entry file="file://$PROJECT_DIR$/Application/Common/Wxpay/example/WxPay.NativePay.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="374">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Home/View/default/Index/index.html">
+    <entry file="file://$PROJECT_DIR$/Application/Common/Wxpay/lib/WxPay.Notify.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="29" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="29" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WxPay1/qrcode/log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wxpay/lib/WxPay.Api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Common/Wxpay/lib/WxPay.Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="40" column="76" selection-start-line="39" selection-start-column="4" selection-end-line="40" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wxpay/lib/WxPay.Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="38" column="76" selection-start-line="38" selection-start-column="76" selection-end-line="38" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wxpay/qrcode/WxPay.NativePay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Think/Controller.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -948,70 +1715,190 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13134">
           <caret line="597" column="9" selection-start-line="597" selection-start-column="9" selection-end-line="597" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Home/Controller/api_test.php">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_5.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-374">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        <state relative-caret-position="1650">
+          <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-04-23handle_server_result.txt" />
+    <entry file="file://$PROJECT_DIR$/2018-04-23handle_sign_time.txt" />
+    <entry file="file://$PROJECT_DIR$/2018-04-23handle_xml_sign_time.txt" />
+    <entry file="file://$PROJECT_DIR$/Addons/SystemInfo/widget.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/Conf/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Common/Common/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-04-23_handle_xml_sign_time.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-04-23_handle_sign_time.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-04-23_handle_server_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Home/Common/function.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
+        <state relative-caret-position="5456">
+          <caret line="254" column="17" selection-start-line="254" selection-start-column="9" selection-end-line="254" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/onethink_entry_activity_detail.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/onethink_pay.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/Controller/WxaController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="375" column="18" selection-start-line="375" selection-start-column="18" selection-end-line="375" selection-end-column="18" />
+          <folding>
+            <element signature="e#33#54#0#PHP" expanded="true" />
+            <element signature="e#3525#6416#0#PHP" expanded="false" />
+            <element signature="e#6528#9511#0#PHP" expanded="false" />
+            <element signature="e#13582#13736#0#PHP" expanded="false" />
+            <element signature="e#13742#16328#0#PHP" expanded="false" />
+            <element signature="e#16344#20805#0#PHP" expanded="false" />
+            <element signature="e#25482#25870#0#PHP" expanded="false" />
+            <element signature="e#25891#27239#0#PHP" expanded="false" />
+            <element signature="e#27508#37796#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Model/AttributeModel.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4488">
+          <caret line="210" column="35" selection-start-line="210" selection-start-column="33" selection-end-line="210" selection-end-column="35" />
+          <folding>
+            <marker date="1387551528000" expanded="true" signature="5122:5243" ph="ALTER TABLE `${{$this-&gt;table_name}}`... " />
+            <marker date="1387551528000" expanded="true" signature="5439:5822" ph="CREATE TABLE... IF" />
+            <marker date="1387551528000" expanded="true" signature="5872:6164" ph="CREATE TABLE... IF" />
+            <marker date="1387551528000" expanded="true" signature="6718:6858" ph="ALTER TABLE `${{$this-&gt;table_name}}`... " />
+            <marker date="1387551528000" expanded="true" signature="7227:7260" ph="ALTER TABLE `${{$this-&gt;table_name}}`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Model/AuthGroupModel.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Home/Model/ActivityModel.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Article/activityEdit.html">
+    <entry file="file://$PROJECT_DIR$/Application/Home/Model/CategoryModel.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1870">
-          <caret line="85" column="74" selection-start-line="85" selection-start-column="70" selection-end-line="85" selection-end-column="74" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/Model/ActivityModel.class.php">
+    <entry file="file://$PROJECT_DIR$/Application/Home/Model/ChannelModel.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12936">
-          <caret line="595" column="27" selection-start-line="595" selection-start-column="23" selection-end-line="595" selection-end-column="27" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php">
+    <entry file="file://$PROJECT_DIR$/Application/Home/Model/DocumentModel.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18458">
-          <caret line="916" column="9" selection-start-line="912" selection-start-column="8" selection-end-line="916" selection-end-column="9" />
-          <folding>
-            <element signature="e#13800#14869#0#PHP" expanded="false" />
-            <element signature="e#19727#20805#0#PHP" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Home/Controller/WxaController.class.php">
+    <entry file="file://$PROJECT_DIR$/Application/Home/Model/MemberModel.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="440" column="0" selection-start-line="440" selection-start-column="0" selection-end-line="440" selection-end-column="0" />
-          <folding>
-            <element signature="e#1214#3188#0#PHP" expanded="false" />
-            <element signature="e#22626#22780#0#PHP" expanded="false" />
-            <element signature="e#22786#25372#0#PHP" expanded="false" />
-            <element signature="e#25388#29849#0#PHP" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/Model/UserModel.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="70" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/Model/PayModel.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/Model/EntryActivityDetailModel.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="52" column="44" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -624,6 +624,11 @@ class ActivityModel extends Model{
             return array('status'=>0, 'info'=>'地点不能为空');
         }
 
+        $address = $data['address'];//详细地址
+        if(empty($address)){
+            return array('status'=>0, 'info'=>'详细地址不能为空');
+        }
+
         $longitude = $data['longitude'];//经度
         if(empty($longitude)){
             return array('status'=>0, 'info'=>'经度不能为空');

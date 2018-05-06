@@ -25,6 +25,44 @@
         .font8{
             font-size: 8px;
         }
+
+        table th{
+            white-space: nowrap;
+        }
+        table td{
+            white-space: nowrap;
+        }
+        body,table{
+            /*font-size:12px;*/
+        }
+        table{
+            empty-cells:show;
+            border-collapse: collapse;
+            /*margin:0 auto;*/
+        }
+
+        h1,h2,h3{
+            /*font-size:12px;*/
+            /*margin:0;*/
+            /*padding:0;*/
+        }
+        table.tab_css_1{
+            /*border:1px solid #cad9ea;*/
+            /*color:#666;*/
+        }
+        table.tab_css_1 th {
+            /*background-image: url("th_bg1.gif");*/
+            /*background-repeat:repeat-x;*/
+            /*height:30px;*/
+        }
+        table.tab_css_1 td,table.tab_css_1 th{
+            /*border:1px solid #cad9ea;*/
+            /*padding:0 1em 0;*/
+        }
+        table.tab_css_1 tr.tr_css{
+            /*background-color:#f5fafe;*/
+            /*height:30px;*/
+        }
     </style>
 </head>
 <body>
@@ -168,7 +206,7 @@
 
             <!--<button class="btn ajax-post" target-form="ids" url="<?php echo U("Article/setStatus",array("status"=>1));?>">启 用</button>-->
 			<!--<button class="btn ajax-post" target-form="ids" url="<?php echo U("Article/setStatus",array("status"=>0));?>">禁 用</button>-->
-			<button class="btn ajax-post confirm" target-form="ids" url="<?php echo U("Article/setActivityStatus",array("status"=>-1));?>">删 除</button>
+			<!--<button class="btn ajax-post confirm" target-form="ids" url="<?php echo U("Article/setActivityStatus",array("status"=>-1));?>">删 除</button>-->
 		</div>
 
 		<!-- 高级搜索 -->
@@ -205,8 +243,8 @@
 
 
 	<!-- 数据表格 -->
-    <div class="data-table">
-		<table class="">
+    <div class="data-table" style="overflow: auto; width: 100%;">
+		<table class="tab_css_1">
     <thead>
         <tr>
 			<th class="row-selected row-selected"><input class="check-all" type="checkbox"/></th>
@@ -215,6 +253,7 @@
 			<th class="font8">日期始</th>
 			<th class="font8">日期止</th>
 			<th class="font8">地点</th>
+			<th class="font8">详细地址</th>
 			<th class="font8">状态</th>
 			<th class="font8">总数量</th>
 			<th class="font8">已报总数量</th>
@@ -234,14 +273,15 @@
 		</tr>
     </thead>
     <tbody>
-		<?php if(is_array($list)): $i = 0; $__LIST__ = $list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><tr>
+		<?php if(is_array($list)): $i = 0; $__LIST__ = $list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><tr class="tr_css">
             <td><input class="ids" type="checkbox" name="ids[]" value="<?php echo ($vo["id"]); ?>" /></td>
 			<td><?php echo ($vo["hdbh"]); ?> </td>
 			<td><?php echo ($vo["hdmc"]); ?></td>
 			<td><span style="font-size: 10px;"><?php echo ($vo["rqs"]); ?></span></td>
 			<td><span style="font-size: 10px;"><?php echo ($vo["rqz"]); ?></span></td>
 			<td><?php echo ($vo["dd"]); ?></td>
-			<td><?php echo ($vo["zt"]); ?></td>
+			<td><?php echo ($vo["address"]); ?></td>
+			<td><?php echo ($vo["ztDes"]); ?></td>
 			<td><?php echo ($vo["zsl"]); ?></td>
 			<td><?php echo ($vo["bmzsl"]); ?></td>
 			<td><?php echo ($vo["bmjg"]); ?></td>
@@ -261,7 +301,13 @@
 			<td><?php echo ($vo["hdxq"]); ?></td>
 			<td><a class="font8" href="<?php echo U('Article/activityEdit?id='.$vo['id']);?>">编辑</a>
 				<!--<a href="<?php echo U('Article/setStatus?ids='.$vo['id'].'&status='.abs(1-$vo['status']));?>" class="ajax-get"><?php echo (show_status_op($vo["status"])); ?></a>-->
-				<a class="font8" href="<?php echo U('Article/setActivityStatus?status=-1&id='.$vo['id']);?>" class="confirm ajax-get">删除</a>
+				<!--<a class="font8" href="<?php echo U('Article/setActivityStatus?status=-1&id='.$vo['id']);?>" class="confirm ajax-get">删除</a>-->
+				<?php if (($vo['zt'] != 3) && ($vo['zt'] != 0)){ ?>
+				<a class="font8" name="<?php echo ($vo['hdmc']); ?>" onclick="cancel($(this))" url="<?php echo U('Article/cancelActivity?status=-1&id='.$vo['id']);?>" class="confirm ajax-get">取消</a>
+				<?php  }?>
+
+
+				<a class="font8" name="<?php echo ($vo['hdmc']); ?>" onclick="del($(this))" url="<?php echo U('Article/setActivityStatus?status=-1&id='.$vo['id']);?>" class="confirm ajax-get">删除</a>
                 </td>
 		</tr><?php endforeach; endif; else: echo "" ;endif; ?>
 	</tbody>
@@ -432,6 +478,29 @@ $(function(){
     })
     
 })
+
+function del(obj) {
+	if(confirm("真的要删除"+obj.attr('name')+"活动吗?")){
+		console.log(obj.attr('url'));
+		var url = obj.attr('url');
+		window.location.href = url;
+	}
+//	else{
+//		alert("点击了取消按钮");
+//	}
+}
+
+function cancel(obj) {
+	if(confirm("真的要取消"+obj.attr('name')+"活动吗?")){
+		console.log(obj.attr('url'));
+		var url = obj.attr('url');
+		window.location.href = url;
+	}
+//	else{
+//		alert("点击了取消按钮");
+//	}
+}
+
 </script>
 
 </body>

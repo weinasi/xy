@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="/xy/Public/Admin/css/module.css">
     <link rel="stylesheet" type="text/css" href="/xy/Public/Admin/css/style.css" media="all">
 	<link rel="stylesheet" type="text/css" href="/xy/Public/Admin/css/<?php echo (C("COLOR_STYLE")); ?>.css" media="all">
-
+    <link href="bitbug_favicon.ico" rel="shortcut icon"/>
     <link rel="stylesheet" type="text/css" href="/xy/Public/Admin/laydate/laydate.css">
 
      <!--[if lt IE 9]>
@@ -24,6 +24,44 @@
     <style>
         .font8{
             font-size: 8px;
+        }
+
+        table th{
+            white-space: nowrap;
+        }
+        table td{
+            white-space: nowrap;
+        }
+        body,table{
+            /*font-size:12px;*/
+        }
+        table{
+            empty-cells:show;
+            border-collapse: collapse;
+            /*margin:0 auto;*/
+        }
+
+        h1,h2,h3{
+            /*font-size:12px;*/
+            /*margin:0;*/
+            /*padding:0;*/
+        }
+        table.tab_css_1{
+            /*border:1px solid #cad9ea;*/
+            /*color:#666;*/
+        }
+        table.tab_css_1 th {
+            /*background-image: url("th_bg1.gif");*/
+            /*background-repeat:repeat-x;*/
+            /*height:30px;*/
+        }
+        table.tab_css_1 td,table.tab_css_1 th{
+            /*border:1px solid #cad9ea;*/
+            /*padding:0 1em 0;*/
+        }
+        table.tab_css_1 tr.tr_css{
+            /*background-color:#f5fafe;*/
+            /*height:30px;*/
         }
     </style>
 </head>
